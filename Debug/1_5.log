@@ -1,0 +1,19 @@
+﻿  Number.cpp
+Z:\university\ооп\програми\1_5\Number.h(7,35): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(8,35): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(10,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(11,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Real.cpp
+Z:\university\ооп\програми\1_5\Number.h(7,35): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(8,35): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(10,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(11,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1_5\Real.cpp(19,14): warning C4101: y_2: неиспользованная локальная переменная
+Z:\university\ооп\програми\1_5\Real.cpp(19,9): warning C4101: y_1: неиспользованная локальная переменная
+  Source.cpp
+Z:\university\ооп\програми\1_5\Number.h(7,35): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(8,35): warning C4244: return: преобразование "const float" в "int", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(10,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Z:\university\ооп\програми\1_5\Number.h(11,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  1_5.vcxproj -> Z:\university\ооп\програми\1_5\Debug\1_5.exe
